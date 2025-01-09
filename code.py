@@ -1,4 +1,7 @@
-#chaging the code to notice by pylint
+"""
+This module contains utility functions for mathematical operations.
+"""
+
 def calculator():
     print("Welcome to the Python Calculator!")
     print("Select operation:")
