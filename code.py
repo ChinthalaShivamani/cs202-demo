@@ -1,10 +1,11 @@
+#chaging the code to notice by pylint
 def calculator():
     print("Welcome to the Python Calculator!")
     print("Select operation:")
     print("1. Addition (+)")
     print("2. Subtraction (-)")
     print("3. Multiplication (*)")
-    print("4. Division (/)")
+    print("4. Division (**)")
 
     while True:
         choice = input("Enter choice (1/2/3/4): ")
