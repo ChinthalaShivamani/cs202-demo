@@ -2,6 +2,10 @@
 This module contains utility functions for mathematical operations.
 """
 
+"""
+This module contains utility functions for mathematical operations.
+"""
+
 def calculator():
     """
     Brief description of what the function does.
