@@ -3,6 +3,15 @@ This module contains utility functions for mathematical operations.
 """
 
 def calculator():
+    """
+    Brief description of what the function does.
+
+    Args:
+        No arguments are required for this function.
+
+    Returns:
+        type: returns the calculated result
+    """
     print("Welcome to the Python Calculator!")
     print("Select operation:")
     print("1. Addition (+)")
