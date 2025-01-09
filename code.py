@@ -5,7 +5,7 @@ def calculator():
     print("1. Addition (+)")
     print("2. Subtraction (-)")
     print("3. Multiplication (*)")
-    print("4. Division (**)")
+    print("4. Division (*)")
 
     while True:
         choice = input("Enter choice (1/2/3/4): ")
